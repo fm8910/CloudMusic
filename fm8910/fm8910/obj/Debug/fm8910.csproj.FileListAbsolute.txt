@@ -1,0 +1,12 @@
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\fm8910.exe.config
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\fm8910.exe
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\fm8910.pdb
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\Newtonsoft.Json.dll
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\Newtonsoft.Json.xml
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\obj\Debug\fm8910.Form1.resources
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\obj\Debug\fm8910.Properties.Resources.resources
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\obj\Debug\fm8910.csproj.GenerateResource.Cache
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\obj\Debug\fm8910.exe
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\obj\Debug\fm8910.pdb
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\RestSharp.dll
+c:\users\fgarcia\documents\visual studio 2013\Projects\fm8910\fm8910\bin\Debug\RestSharp.xml
